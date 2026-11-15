@@ -1,0 +1,16 @@
+name = "fimo-prod"
+main = ".open-next/worker.js"
+compatibility_date = "2025-09-01"
+compatibility_flags = ["nodejs_compat"]
+
+[assets]
+directory = ".open-next/assets"
+binding = "ASSETS"
+
+[vars]
+NEXT_PUBLIC_SUPABASE_URL = "https://YOUR_PROJECT_REF.supabase.co"
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY = "YOUR_SUPABASE_PUBLISHABLE_KEY"
+NEXT_PUBLIC_APP_URL = "https://fimo.example.com"
+STORAGE_BACKEND = "minio"
+MINIO_ENDPOINT = "https://files.example.com"
+MINIO_BUCKET = "fimo-files-prod"
