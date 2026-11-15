@@ -2,7 +2,7 @@
 
 ## Purpose
 
-FIMO — Fleet Integrated Management & Operations (formerly FIMO) — replaces
+FIMO — Fleet Integrated Management & Operations — replaces
 two separate legacy administration tools with **one application and one database**:
 
 | Legacy system | Source stack | OMS module |

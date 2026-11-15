@@ -8,14 +8,14 @@
 > mempelajari atau membangun sistem serupa untuk operasional angkutan umum
 > berbasis skema kontrak *gross-cost*/PSO sebagaimana diatur dalam
 > **Pergub DIY No. 110 Tahun 2024** tentang Penyelenggaraan Sistem Angkutan
-> Perkotaan Angkutan Perkotaan. Database dan backend produksi **tidak** termasuk
+> Perkotaan. Database dan backend produksi **tidak** termasuk
 > dalam repositori ini; lihat [OPEN-EDITION.md](OPEN-EDITION.md) untuk ruang
 > lingkup lengkapnya.
 
 **FIMO** adalah aplikasi administrasi untuk operasional **Angkutan Perkotaan** di
 **Operator A**, Unit Transportasi, Yogyakarta.
 
-Dulu aplikasi ini bernama **FIMO**. Isinya menggabungkan dua aplikasi
+Aplikasi ini menggabungkan dua aplikasi
 lama yang dulu terpisah — dashboard **Branding** (booking iklan di bodi bus) dan
 **Subsiditrack** (klaim subsidi operasional) — menjadi **satu aplikasi, satu
 database, dan satu pintu login** untuk semua pekerjaan administrasi.

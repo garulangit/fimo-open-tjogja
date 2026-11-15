@@ -1,4 +1,4 @@
-# AGENTS.md — FIMO (formerly FIMO)
+# AGENTS.md — FIMO
 
 Instructions for AI coding agents working in this repository. Human contributors
 should also read [CONTRIBUTING.md](CONTRIBUTING.md). Full documentation lives in
